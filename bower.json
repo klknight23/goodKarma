@@ -1,0 +1,26 @@
+{
+  "name": "karma",
+  "description": "Karma App",
+  "main": "index.js",
+  "authors": [
+    ""
+  ],
+  "license": "ISC",
+  "keywords": [
+
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "ajax": "^2.1.2",
+    "bootstrap": "^3.3.7"
+  }
+}

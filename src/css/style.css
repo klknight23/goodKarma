@@ -1,0 +1,98 @@
+/*General*/
+.text-center{
+  text-align: center;
+}
+h1,h2,h3,h4,h5,h6,p{
+}
+/*Login Page*/
+#login{
+    padding-top: 50px;
+}
+.login-title{
+  font-family: 'Indie Flower', cursive;
+  font-size:120px;
+  color: #8B29BD;
+}
+
+.submitBtn{
+  background:#ECDC3F;
+  color:#fff;
+  font-size: 24px;
+  border: solid 1px #5CC9EB;
+  border-radius: 5px;
+  text-align: center;
+}
+.loginForm{
+  background-color: rgba(255,255,255,.5);
+  padding:30px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+/*On Boarding*/
+.on-boarding-form{
+  border-radius: 5px;
+  background-color: rgba(255,255,255,.5);
+}
+.on-boarding-title{
+  font-family: 'Indie Flower', cursive;
+  color: #8B29BD;
+}
+.select-padding{
+  padding:20px;
+}
+.row > h4{
+  padding-top:20px;
+}
+label{
+  color:#000;
+}
+[type="radio"]:checked + label:after, [type="radio"].with-gap:checked + label:after{
+  background-color: #FFFF00;
+  border: 2px solid #FFFF00;
+}
+
+/*User Profile*/
+.user-profile{
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.profile-photo{
+  background: url("../images/profile.png") no-repeat;
+  background-size: cover;
+  height:300px;
+  width:300px;
+ margin: 25px;
+}
+/*Karma Ring*/
+#ball {
+    width:350px !important;
+    height:350px;
+    border:3px solid;
+    background-color: #fff;
+    border-radius:50%;
+    display:inline;
+}
+
+
+/*Leader Board*/
+.leaders{
+ font-size: 32px;
+ color: #fff;
+}
+.scores{
+  font-size: 24px;
+  color:#fff;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.hi-score{
+  height: 30px;
+  width: 30px !important;
+  background-color: green;
+  border-radius: 50%;
+}
+#proScore{
+  font-size: 60px;
+}

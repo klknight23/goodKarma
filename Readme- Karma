@@ -1,0 +1,13 @@
+All components should have a module that renders the component
+see Example
+
+Must remember to import all necessary files into each file
+
+Remember to export components at the end of each file so they can be imported into other files
+see Example
+
+Router info: https://www.tutorialspoint.com/reactjs/reactjs_router.htm
+
+React Tutorial: http://www.tutorialspoint.com/reactjs/
+
+MUST RUN: npm install & bower install first!
